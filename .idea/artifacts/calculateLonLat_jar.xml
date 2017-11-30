@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="calculateLonLat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/calculateLonLat_jar</output-path>
+    <root id="root">
+      <element id="archive" name="calculateLonLat.jar">
+        <element id="module-output" name="calculateLonLat" />
+      </element>
+    </root>
+  </artifact>
+</component>
